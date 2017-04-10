@@ -3,7 +3,8 @@ A collection of Kaggle solutions.
 
 ## [Titanic](https://github.com/whiteg5/kaggle/tree/master/Titanic)
 
-![alt text](https://upload.wikimedia.org/wikipedia/en/6/65/Titanic_Colourised%2C_photographed_in_Southampton.png "Titanic")
+
+<img src="https://upload.wikimedia.org/wikipedia/en/6/65/Titanic_Colourised%2C_photographed_in_Southampton.png" align="left" height="208" width="304" hspace="12" vspace="0">
 
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in history.  On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
 
